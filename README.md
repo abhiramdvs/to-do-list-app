@@ -7,7 +7,7 @@ The To-Do List App is a simple command-line-based application that allows users 
 3. Open a terminal or command prompt and navigate to the project directory.
 4. Run the following command to start the To-Do List App:
    
-              python todolist.py
+              python ToDo_List.py
 
 # Features
 **Add Task:** Users can add new tasks to their To-Do list. Each task can have a description and is set to not completed by default.
