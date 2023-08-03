@@ -43,6 +43,7 @@ def completeTask(task_index):
         f4 = open("taskList.txt", "w")
         f4.writelines(lines)
         print(f"Task '{task['task']}' marked as completed.")
+        f4.close()
     else:
         print("Invalid task number.")
 
